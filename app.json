@@ -1,0 +1,12 @@
+{
+  "name": "React_Native_Firebase",
+  "displayName": "React_Native_Firebase",
+  "expo": {
+    "name": "React_Native_Firebase",
+    "slug": "React_Native_Firebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
